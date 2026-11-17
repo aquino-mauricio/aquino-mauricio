@@ -3,13 +3,14 @@
 Porto Alegre - RS - Brasil
 <br>
 <br>
-#CódigoBrazuca
-
-#MoonVilla Mooner2878
-
-#ZeroParalelo 
-
-#YeldHacker1312 
+#ZeroParalelo
+#Mooner 2808
+#YieldHacker1312
+#CódigoBrazuca - Polkadot Academy
+<br>
+#Harvard CC50
+#Google Project Manager
+#ITA Agile
 
 #
 ![swift](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
