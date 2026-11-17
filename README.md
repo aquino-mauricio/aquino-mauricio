@@ -1,10 +1,8 @@
 ### Hello 
 
 
-#### My name is Mauricio Aquino.
-Designer, graphic artist and Professional Tattoo Artist since 2001. Graduated in Accounting, I study Economiy and Financial Market since 2018, currently focusing on Crypo Assets, Blockchain and Decentralized Finance.
-
-Software Developer student, and taking the first steps towards, in a near future, join the tech career. 
+#### Dev de Galpão
+Porto Alegre - RS - Brasil
 
 
 #CódigoBrazuca
