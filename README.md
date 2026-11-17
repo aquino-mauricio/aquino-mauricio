@@ -3,6 +3,7 @@
 Porto Alegre - RS - Brasil
 <br>
 <br>
+
 #ZeroParalelo
 
 #Mooner 2808
@@ -12,9 +13,14 @@ Porto Alegre - RS - Brasil
 #CódigoBrazuca - Polkadot Academy
 
 <br>
+#ADS
+
 #Harvard CC50
+
 #Google Project Manager
+
 #ITA Agile
+
 
 #
 ![swift](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
