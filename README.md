@@ -4,9 +4,13 @@ Porto Alegre - RS - Brasil
 <br>
 <br>
 #ZeroParalelo
+
 #Mooner 2808
+
 #YieldHacker1312
+
 #CódigoBrazuca - Polkadot Academy
+
 <br>
 #Harvard CC50
 #Google Project Manager
